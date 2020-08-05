@@ -20,7 +20,8 @@ Tarefas de código:
 Rodar o arquivo transferDeDados.py
 
 obs.: em caso de erro, instalar as bibliotecas.
-obs.: o github não estava aceitando a pasta inteira, mas subi o arquivo com o projeto e algumas pastas de suporte que foram aceitas.
+
+obs.2: o github não estava aceitando a pasta inteira, mas subi o arquivo com o projeto e algumas pastas de suporte que foram aceitas.
 
 ## Built With
 
